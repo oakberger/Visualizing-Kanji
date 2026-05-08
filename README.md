@@ -2,6 +2,8 @@
 
 A repo that visualizes the connection between the Kanji I learned in my Japanese A1.2 course using Obsidian graph view.
 
+![Graph Visualization](Attachments/visualization.gif)
+
 The course follows the Genki I book. We had to learn the Kanji along with the orange highlighted words from chapter 3 - 8 (page 304 - 330). There are 86 unique Kanji and I noticed that the actual words often shared a lot of the same Kanji. So I thought it could be interesting to try to visualize this using Obsidian's graph view.
 
 My approach was to create a `.md` file for each Japanese word, and to link it to the Kanji that the word was made of. Additionally, to be able to practice the kanji, I also linked all the words and Kanji to their corresponding english and hiragana translation.
