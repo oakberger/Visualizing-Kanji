@@ -12,6 +12,11 @@ My approach was to create a `.md` file for each Japanese word, and to link it to
 
 ---
 
+## Getting started
+
+Clone the Repo, Open as a vault in Obsidian, allow plugins, click enable extended graph and explore!
+
+---
 ## Explanation of the Tags
 
 | Tag                      | Description                                                                                                                                                                                                                                                    |
