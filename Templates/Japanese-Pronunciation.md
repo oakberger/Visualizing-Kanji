@@ -1,0 +1,4 @@
+---
+tags:
+  - Japanese-Pronunciation
+---

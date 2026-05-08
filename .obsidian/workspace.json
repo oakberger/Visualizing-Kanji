@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "16a477688b51d476",
+    "type": "split",
+    "children": [
+      {
+        "id": "69caacf6c07b745f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0475c8c0a791b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "78dd0030efa9ee1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Japanese A1.2 Kanji.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Japanese A1.2 Kanji"
+            }
+          },
+          {
+            "id": "ca2f7c1d0ae83e59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "子ども.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "子ども"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e735e6cbe2492fa5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee0ea53b62fda62f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe1a6780ae716e35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad93e782676336f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Kanji-Pronunciation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "efdccb6af43417a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "1a18ca80ba22c53e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f6b41df8828e5bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a1539d0e675460f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "いち.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for いち"
+            }
+          },
+          {
+            "id": "e6cc74a303479789",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Japanese A1.2 Kanji.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Japanese A1.2 Kanji"
+            }
+          },
+          {
+            "id": "f4128d64a3fdc6fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "910efdafdb7c0438",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f03e26275ca150a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Japanese A1.2 Kanji.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Japanese A1.2 Kanji"
+            }
+          },
+          {
+            "id": "e505dc4de05f3782",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "125f0c092ba39f39",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "125f0c092ba39f39",
+  "lastOpenFiles": [
+    "休む.md",
+    "子ども.md",
+    "供.md",
+    "子供.md",
+    "Main/Japanese A1.2 Kanji.md",
+    "Templates/Kanji-Symbol.md",
+    "Japanese-Pronunciation.md",
+    "Templates/Japanese-Pronunciation.md",
+    "いく.md",
+    "いう.md",
+    "あたらしい.md",
+    "あう.md",
+    "よむ.md",
+    "ろくじ.md",
+    "ろっぴゃく.md",
+    "よじ.md",
+    "かいしゃ.md",
+    "みなみぐち.md",
+    "いち.md",
+    "い.md",
+    "あたら.md",
+    "あ.md",
+    "Templates/Kanji-Pronunciation.md",
+    "女.md",
+    "おんな.md",
+    "Rice field.md",
+    "Main",
+    "book ",
+    "electricity",
+    "Mr.",
+    "Templates",
+    "Attachments/brd_ss24_colloquium-2024-05-14.pdf",
+    "Attachments/Pasted image 20260507153340.png",
+    "Attachments/Pasted image 20260507153354.png",
+    "Attachments/Pasted image 20260507153618.png",
+    "Attachments/Pasted Image 20260507143157_535.png",
+    "Attachments/Pasted image 20260507153546.png",
+    "Attachments/Pasted image 20260507153553.png",
+    "Attachments/Pasted image 20260507153419.png",
+    "Attachments/Pasted image 20260507153237.png",
+    "Attachments/Pasted image 20260507153949.png",
+    "Attachments/Pasted image 20260507154001.png",
+    "Attachments/colloquium-additionalnotes.pdf",
+    "Attachments/GenkiBuch 2.pdf",
+    "Attachments"
+  ]
+}
