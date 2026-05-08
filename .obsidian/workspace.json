@@ -11,10 +11,14 @@
             "id": "2e0475c8c0a791b3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -32,17 +36,87 @@
             }
           },
           {
-            "id": "ca2f7c1d0ae83e59",
+            "id": "d944c74ec239ce17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "子ども.md",
+                "file": "車.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "子ども"
+              "title": "車"
+            }
+          },
+          {
+            "id": "4b7ab387f0c44a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "car.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "car"
+            }
+          },
+          {
+            "id": "bb58e73415c8691b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "会う.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "会う"
+            }
+          },
+          {
+            "id": "617c6e9c967b1845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "先生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "先生"
+            }
+          },
+          {
+            "id": "ad459644a38fe33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "先生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "先生"
+            }
+          },
+          {
+            "id": "683a79a6cb03bbd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "生"
             }
           }
         ]
@@ -77,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kanji-Pronunciation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +172,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 269.5
   },
   "right": {
     "id": "1a18ca80ba22c53e",
@@ -119,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "いち.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +202,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for いち"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -181,13 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese A1.2 Kanji.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Japanese A1.2 Kanji"
+              "title": "Outline of README"
             }
           },
           {
@@ -211,7 +284,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -230,13 +303,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "125f0c092ba39f39",
+  "active": "2e0475c8c0a791b3",
   "lastOpenFiles": [
-    "休む.md",
+    "Main/Japanese A1.2 Kanji.md",
+    "README.md",
+    "車.md",
+    "先生.md",
+    "car.md",
+    "生.md",
+    "会う.md",
+    "先.md",
+    "学校.md",
     "子ども.md",
+    "Middle.md",
+    "何時.md",
+    "Untitled.md",
+    "休む.md",
     "供.md",
     "子供.md",
-    "Main/Japanese A1.2 Kanji.md",
     "Templates/Kanji-Symbol.md",
     "Japanese-Pronunciation.md",
     "Templates/Japanese-Pronunciation.md",
@@ -247,17 +331,6 @@
     "よむ.md",
     "ろくじ.md",
     "ろっぴゃく.md",
-    "よじ.md",
-    "かいしゃ.md",
-    "みなみぐち.md",
-    "いち.md",
-    "い.md",
-    "あたら.md",
-    "あ.md",
-    "Templates/Kanji-Pronunciation.md",
-    "女.md",
-    "おんな.md",
-    "Rice field.md",
     "Main",
     "book ",
     "electricity",

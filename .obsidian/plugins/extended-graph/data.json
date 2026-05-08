@@ -152,7 +152,7 @@
             }
           }
         ],
-        "search": "-path:Main -path:Templates  ",
+        "search": "-path:Main -path:Templates  -file:README",
         "hideUnresolved": false,
         "showAttachments": false,
         "showOrphans": true,

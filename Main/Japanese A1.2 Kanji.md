@@ -184,8 +184,7 @@ semester: FS 2026
 
 ### Improvement ideas:
 - split into on-yomi and kun-yomi
-- add more common words that use each kanji
-- find a way to connect them all with links etc.
+- add more common words for each kanji
 - Improve the names of the filters for more clarity
 - Create a plugin that improves the graph view to make it an optimal learning tool
 	- only show translation when clicking on it
